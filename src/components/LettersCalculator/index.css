@@ -1,0 +1,32 @@
+/* Write your code here. */
+
+.greet1 {
+  background-color: #93f9b9;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.greet3 {
+  margin: 15px;
+}
+
+.greet2 {
+  width: 300px;
+  height: 22px;
+  background-color: transparent;
+  border-color: white;
+  border-radius: 20px;
+}
+.greet4 {
+  height: 55px;
+  background-color: white;
+  margin-top: 55px;
+  border-radius: 18px;
+  font-size: 25px;
+}
+.greet5 {
+  color: white;
+  font-style: bold;
+}
